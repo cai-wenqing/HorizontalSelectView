@@ -202,7 +202,7 @@ public class HorizontalSelectedView extends View {
     }
 
     /**
-     * 获取选中的文字
+     * 获取选中的位置
      *
      * @return
      */
